@@ -1,0 +1,23 @@
+{
+  "name": "xx",
+  "private": true,
+  "version": "0.0.0",
+
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+
+  "dependencies": {
+
+  },
+
+  "devDependencies": {
+    "webpack": "4.1.1",
+    "webpack-cli": "2.0.9",
+    "style-loader": "0.20.3",
+    "css-loader": "0.28.10",
+    "extract-text-webpack-plugin": "next",
+    "postcss-loader": "2.1.1",
+    "postcss-nesting": "4.2.1"
+  }
+}
